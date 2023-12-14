@@ -10,6 +10,5 @@ print("program initialized")
 # dataset = pd.read_csv('bank.csv')
 
 dataset = pd.read_csv('bank.csv')
-print(dataset.head())
 # Display the first few rows of the dataset
 print(dataset.head())
