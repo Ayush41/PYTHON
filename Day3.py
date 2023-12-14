@@ -46,14 +46,6 @@ def tarin_using_entropy(X_train, X_test, y_train):
 
 
 
-
-
-
-
-
-
-
-
 # Deepanshu Chauhan
 # 22011138
 
